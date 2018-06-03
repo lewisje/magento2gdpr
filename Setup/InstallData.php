@@ -55,7 +55,7 @@ class InstallData implements InstallDataInterface
      * @var array
      */
     protected $customerFields = [
-        'personnalized_suggestions' => 'Personnalized suggestions',
+        'personnalized_suggestions' => 'Personalized suggestions',
         'third_party' => 'Third party',
     ];
 
