@@ -98,7 +98,7 @@ class Crypt extends \Symfony\Component\Console\Command\Command
     protected function configure()
     {
         $this->setName("gdpr:crypt");
-        $this->setDescription("Crypt all personnal data");
+        $this->setDescription("Crypt all personal data");
         $this->setDefinition([
         ]);
         parent::configure();
